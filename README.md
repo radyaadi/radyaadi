@@ -5,5 +5,5 @@ Hello there! I am Fresh Graduate with a Bachelor's degree in Informatics (Comput
 ##### 🔗 Reach Me!
 [Email](mailto:adiradya140@gmail.com) | [Linkedin](https://www.linkedin.com/in/radyaadi/) | [My Profile](https://radya-profile.netlify.app/)
 
-### 🛠 My Curren Tech
+### 🛠 My Current Tech
 `NextJS` `ReactJS` `Typescript` `Javascript` `ExpressJS` `TailwindCSS` `NodeJs`
