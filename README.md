@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hello there! I'm a Fresh Graduate with a Bachelor of Informatics Degree (Computer Science) and i have experience in frontend web development using Javascript programming language. I have developed several web applications using the ReactJs library and the NextJs framework, as well as TailwindCSS for styling and layout management. Additionally, I have managed backend development using NodeJS, specifically with the ExpressJS framework. I have strong understanding of modern web development technology and always follow the best practices guidelines as a developer, also accustomed to working either individually or as part of a team.
+Hello there! I am Fresh Graduate with a Bachelor's degree in Informatics (Computer Science), hands-on experience as a Freelancer Web Developer. I have some experiences and skills in creating dynamic and responsive web interfaces using JavaScript programming languange, leveraging modern libraries and frameworks such as ReactJS, NodeJS, and TailwindCSS. Additionally, I also have good understanding in backend development with ExpressJS, database management using SQL programming languange, and foundational knowledge of Object-Oriented Programming (OOP) concepts.
+
 
 ##### 🔗 Reach Me!
 [Email](mailto:adiradya140@gmail.com) | [Linkedin](https://www.linkedin.com/in/radyaadi/) | [My Profile](https://radya-profile.netlify.app/)
